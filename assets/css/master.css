@@ -71,7 +71,7 @@ body::-webkit-scrollbar-thumb {
 
 .header {
   background: #040C0E;
-  height: auto;
+  height: 65vh;
 }
 
 .mini-bar{
@@ -92,7 +92,7 @@ body::-webkit-scrollbar-thumb {
 
 
 .jumbotron{
-  height: auto;
+  height: 80vh;
 }
 .container-fluid {
   background-color: #2962FF;
@@ -234,5 +234,17 @@ footer {
     .new-color {
       height: auto;
     }
+
+    .container-fluid .row .col-lg-6 img {
+    height: 275px;
+    width: 275px;
+}
+
+.section .row .col-lg-6 p {
+  font-family: 'Rubik', sans-serif;
+
+  padding-left: 0px;
+
+}
 
 }
