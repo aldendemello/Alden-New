@@ -105,7 +105,7 @@ body::-webkit-scrollbar-thumb {
 }
  .container-fluid .row {
   background-color: #2962FF;
-  height: 65vh;
+  height: auto;
   padding: 50px;
 }
 
@@ -124,7 +124,7 @@ body::-webkit-scrollbar-thumb {
   color: #040C0E;
   padding-left: 20px;
   border-left: 2px solid #2962FF;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
 
  .container-fluid .row .new-color {
@@ -153,7 +153,7 @@ a.projects:hover {
 /*  */
 
 .section .row{
- height: 65vh;
+ height: auto;
  background-color: #fff;
 }
 
@@ -177,7 +177,7 @@ a.projects:hover {
 }
 
  .section .row .new-color-2 {
-  background-color: #fff;
+  background-color: #333;
 }
 
 .section .row img{
@@ -185,8 +185,6 @@ a.projects:hover {
   width: inherit;
   padding: 0;
   margin: 0;
-  border-top-right-radius: 20px;
-  border-bottom-right-radius: 20px;
 }
 
 }
