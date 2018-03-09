@@ -202,3 +202,18 @@ footer {
   height: 100%;
   padding: 10px;
 }
+
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+  .navbar {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+}
+
+@media only screen and (min-width : 321px) {
+
+}
