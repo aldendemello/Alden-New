@@ -207,9 +207,7 @@ footer {
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
   .navbar {
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 0;
   }
 
 }
