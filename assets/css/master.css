@@ -71,7 +71,7 @@ body::-webkit-scrollbar-thumb {
 
 .header {
   background: #040C0E;
-  height: 75vh;
+  height: auto;
 }
 
 .mini-bar{
@@ -92,7 +92,7 @@ body::-webkit-scrollbar-thumb {
 
 
 .jumbotron{
-  height: 80vh;
+  height: auto;
 }
 .container-fluid {
   background-color: #2962FF;
@@ -133,7 +133,6 @@ body::-webkit-scrollbar-thumb {
 
 
 a.projects {
-  margin-top: 20px;
   color: white;
   padding: 20px;
   background-color: #2962FF;
@@ -227,5 +226,13 @@ footer {
   background-color: #fff;
  }
 
+.new-color .row {
+  height: auto;
+  padding-bottom: 20px;
+}
+
+    .new-color {
+      height: auto;
+    }
 
 }
