@@ -235,7 +235,7 @@ footer {
       height: auto;
     }
 
-    .container-fluid .row .col-lg-6 img {
+.container-fluid .row .col-lg-6 img {
     height: 275px;
     width: 275px;
 }
